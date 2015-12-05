@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
     private ScrollView mScrollView;
 
+    private String a;
+
+
     private NoScrollViewList listview;
 
     private List<String> list;
