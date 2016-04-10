@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
     private String bb;
 
+    private String cc;
+
     private NoScrollViewList listview;
 
     private List<String> list;
