@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String bb;
 
-    private String cc;
+    private String ddd;
 
     private NoScrollViewList listview;
 
